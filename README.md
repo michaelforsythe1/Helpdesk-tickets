@@ -1,4 +1,4 @@
-<h1>Helpdesk ticket support</h1>
+<h1>Exploring features of a Helpdesk ticketing system</h1>
 
 <h2>Description</h2>
 In this lab, I made a demo of assisting a user remotely with Spicework’s remote support feature. Since I am on the free version, I had limited access to its features. 
